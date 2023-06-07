@@ -1,0 +1,8 @@
+let dias = ['Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado', 'Domingo'];
+console.log(dias[0]);
+console.log(dias[1]);
+console.log(dias[2]);
+console.log(dias[3]);
+console.log(dias[4]);
+console.log(dias[5]);
+console.log(dias[6]);
