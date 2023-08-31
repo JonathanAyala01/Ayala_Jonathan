@@ -1,0 +1,15 @@
+{
+  "name": "practico-6",
+  "version": "1.0.0",
+  "description": "tp-6",
+  "main": "index.js",
+ 
+
+"scripts": {
+"start": "node index.js",
+"test": "echo \"Error: no test specified\" && exit 1"
+},
+
+  "author": "jonathan ayala",
+  "license": "ISC"
+}
